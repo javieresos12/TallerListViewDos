@@ -56,6 +56,6 @@ public class Celular {
     }
 
     public void guardar(){
-
+       Datos.guardar(this);
     }
 }

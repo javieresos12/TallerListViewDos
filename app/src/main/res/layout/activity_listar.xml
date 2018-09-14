@@ -8,6 +8,7 @@
     tools:context=".Listar">
 
     <TableLayout
+        android:id="@+id/tabla"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:stretchColumns="*">

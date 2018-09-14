@@ -52,4 +52,12 @@
     <string name="reporte5">Reporte 5</string>
     <string name="seleccioneReporte">Seleccione un Reporte</string>
     <string name="mostrar">Mostrar</string>
+    <string name="listar">Listar</string>
+
+    <string-array name="opciones">
+        <item>@string/registrar</item>
+        <item>@string/listar</item>
+        <item>@string/reporte</item>
+    </string-array>
+    <string name="mensaje">Informacion Guardada Exitosamente</string>
 </resources>
