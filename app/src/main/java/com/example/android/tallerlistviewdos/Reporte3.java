@@ -1,9 +1,10 @@
 package com.example.android.tallerlistviewdos;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Reporte3 extends AppCompatActivity {
+public class Reporte3 extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
