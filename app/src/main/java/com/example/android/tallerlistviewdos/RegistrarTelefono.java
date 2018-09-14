@@ -62,4 +62,19 @@ public class RegistrarTelefono extends Activity {
 
     }
 
+    public void limpiar(View v){
+        borrar();
+    }
+
+    public void borrar(){
+        marca.setSelection(0);
+        color.setSelection(0);
+        sistemaoperativo.setSelection(0);
+        precio.setText("");
+        capacidad.setText("");
+        marca.requestFocus();
+
+
+    }
+
 }
