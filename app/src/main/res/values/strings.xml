@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">TallerListViewDos</string>
+    <string name="opciones">Opciones</string>
+    <string name="registrar">Registrar</string>
+    <string name="samsung">Samsung</string>
+    <string name="apple">Apple</string>
+    <string name="huawei">Huawei</string>
+    <string name="nokia">Nokia</string>
+    <string name="negro">Negro</string>
+    <string name="blanco">Blanco</string>
+    <string name="android">Android</string>
+    <string name="ios">ios</string>
+    <string name="capacidad">Capacidad RAM</string>
+    <string name="precio">Precio</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <string-array name="Idmarca">
+        <item>@string/seleccionemarca</item>
+        <item>@string/apple</item>
+        <item>@string/huawei</item>
+        <item>@string/samsung</item>
+        <item>@string/nokia</item>
+    </string-array>
+
+    <string-array name="Idcolor">
+        <item>@string/selecccionecolor</item>
+        <item>@string/blanco</item>
+        <item>@string/negro</item>
+    </string-array>
+
+    <string-array name="IdSistemaOperativo">
+        <item>@string/seleccionesistema</item>
+        <item>@string/android</item>
+        <item>@string/ios</item>
+    </string-array>
+    <string name="seleccionemarca">Seleccione una marca</string>
+    <string name="selecccionecolor">Seleccione un color</string>
+    <string name="seleccionesistema">Seleccione Sistema Operativo</string>
+    <string name="marca">Marca</string>
+    <string name="color">Color</string>
+    <string name="sistemaoperativo">Sistema Operativo</string>
+
+    <string-array name="Idreporte">
+        <item>@string/seleccioneReporte</item>
+        <item>@string/reporte3</item>
+        <item>@string/reporte4</item>
+        <item>@string/reporte5</item>
+    </string-array>
+    <string name="reporte">Reporte</string>
+    <string name="reporte3">Reporte 3</string>
+    <string name="reporte4">Reporte 4</string>
+    <string name="reporte5">Reporte 5</string>
+    <string name="seleccioneReporte">Seleccione un Reporte</string>
+    <string name="mostrar">Mostrar</string>
+</resources>
