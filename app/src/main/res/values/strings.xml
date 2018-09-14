@@ -47,7 +47,7 @@
         <item>@string/reporte5</item>
     </string-array>
     <string name="reporte">Reporte</string>
-    <string name="reporte3">Reporte 3</string>
+    <string name="reporte3">Reporte 2</string>
     <string name="reporte4">Reporte 4</string>
     <string name="reporte5">Reporte 5</string>
     <string name="seleccioneReporte">Seleccione un Reporte</string>
@@ -60,4 +60,6 @@
         <item>@string/reporte</item>
     </string-array>
     <string name="mensaje">Informacion Guardada Exitosamente</string>
+    <string name="promedio">El Precio Promedio es: </string>
+    <string name="cantidad">Cantidad de celulares  Apple Negro son:</string>
 </resources>
