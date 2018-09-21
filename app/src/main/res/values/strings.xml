@@ -62,4 +62,10 @@
     <string name="mensaje">Informacion Guardada Exitosamente</string>
     <string name="promedio">El Precio Promedio es: </string>
     <string name="cantidad">Cantidad de celulares  Apple Negro son:</string>
+    <string name="errorReporte">Debe Seleccionar un reporte</string>
+    <string name="errorReporte1">Debe Seleccionar una marca</string>
+    <string name="errorReporte2">Debe Seleccionar un color</string>
+    <string name="errorReporte3">Debe Seleccionar un sistema operativo</string>
+    <string name="errorReporte4">Debe Ingresar una Capacidad</string>
+    <string name="errorReporte5">Debe Ingresar un Precio</string>
 </resources>

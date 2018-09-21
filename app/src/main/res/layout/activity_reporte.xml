@@ -33,5 +33,6 @@
         android:id="@+id/btnLimpiar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="limpiar"
         android:text="@string/limpiar" />
 </LinearLayout>
