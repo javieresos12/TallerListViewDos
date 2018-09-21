@@ -6,7 +6,7 @@ public class Metodos {
 
 
     public static  double promediocelulares (ArrayList<Celular> celular){
-        double suma=0, promedio;
+        double suma=0, promedio=0;
         int contador=0;
 
         for (int i = 0; i <celular.size() ; i++) {

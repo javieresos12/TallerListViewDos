@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerListViewDos</string>
+    <string name="samsung">Samsung</string>
+    <string name="apple">Apple</string>
+    <string name="huawei">Huawei</string>
+    <string name="nokia">Nokia</string>
+    <string name="negro">Black</string>
+    <string name="blanco">White</string>
+    <string name="android">Android</string>
+    <string name="ios">ios</string>
+    <string name="guardar">Save</string>
+    <string name="limpiar">Clear</string>
+    <string name="seleccionemarca">Choose a brand</string>
+    <string name="selecccionecolor">"Choose a color "</string>
+    <string name="seleccionesistema">"Choose "</string>
+    <string name="marca">brand</string>
+    <string name="color">color</string>
+    <string name="reporte">report</string>
+    <string name="reporte3">report two</string>
+    <string name="reporte4">report four</string>
+    <string name="reporte5">report five</string>
+    <string name="seleccioneReporte">Choose an report</string>
+    <string name="sistemaoperativo">operative system</string>
+    <string name="precio">price</string>
+    <string name="capacidad">capacity ram</string>
+    <string name="opciones">Options</string>
+    <string name="registrar">sign up</string>
+    <string name="mostrar">show</string>
+    <string name="listar">List</string>
+    <string name="mensaje">Information save successfully</string>
+    <string name="errorReporte">Must Choose a report</string>
+    <string name="errorReporte1">Must Choose a brand</string>
+    <string name="errorReporte2">Must Choose a color</string>
+    <string name="errorReporte3">Must Choose a operative systems</string>
+    <string name="errorReporte4">Must enter a capacity</string>
+    <string name="errorReporte5">Must enter a price</string>
+    <string name="cantidad">Number of Black Apple cell phones are:</string>
+    <string name="promedio">"the average price is "</string>
+</resources>
